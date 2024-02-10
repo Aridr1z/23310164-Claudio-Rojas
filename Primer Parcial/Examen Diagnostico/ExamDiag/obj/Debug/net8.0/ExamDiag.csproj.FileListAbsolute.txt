@@ -1,0 +1,14 @@
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\bin\Debug\net8.0\ExamDiag.exe
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\bin\Debug\net8.0\ExamDiag.deps.json
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\bin\Debug\net8.0\ExamDiag.runtimeconfig.json
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\bin\Debug\net8.0\ExamDiag.dll
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\bin\Debug\net8.0\ExamDiag.pdb
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\obj\Debug\net8.0\ExamDiag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\obj\Debug\net8.0\ExamDiag.AssemblyInfoInputs.cache
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\obj\Debug\net8.0\ExamDiag.AssemblyInfo.cs
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\obj\Debug\net8.0\ExamDiag.csproj.CoreCompileInputs.cache
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\obj\Debug\net8.0\ExamDiag.dll
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\obj\Debug\net8.0\refint\ExamDiag.dll
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\obj\Debug\net8.0\ExamDiag.pdb
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\obj\Debug\net8.0\ExamDiag.genruntimeconfig.cache
+C:\Users\goril\OneDrive\Desktop\Progra\C# - Codigos\Practicas\23310164-Claudio-Rojas\Primer Parcial\Examen Diagnostico\ExamDiag\obj\Debug\net8.0\ref\ExamDiag.dll
